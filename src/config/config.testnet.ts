@@ -10,7 +10,7 @@ export const networks: NetworkType[] = [
     chainId: 'T',
     adapter: 'api',
     theme: 'testnet',
-    egldLabel: 'xEGLD',
+    egldLabel: 'OURO',
     walletAddress: 'https://testnet-wallet.multiversx.com',
     explorerAddress: 'https://explorer.testnet.midas.buidly.com',
     nftExplorerAddress: 'https://testnet.xspotlight.com',
