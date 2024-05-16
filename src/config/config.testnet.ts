@@ -12,9 +12,9 @@ export const networks: NetworkType[] = [
     theme: 'testnet',
     egldLabel: 'xEGLD',
     walletAddress: 'https://testnet-wallet.multiversx.com',
-    explorerAddress: 'https://testnet-explorer.multiversx.com',
+    explorerAddress: 'https://explorer.testnet.midas.buidly.com',
     nftExplorerAddress: 'https://testnet.xspotlight.com',
-    apiAddress: 'https://testnet-api.multiversx.com'
+    apiAddress: 'https://api.testnet.midas.buidly.com'
   }
 ];
 
