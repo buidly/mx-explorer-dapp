@@ -10,11 +10,11 @@ export const networks: NetworkType[] = [
     chainId: 'T',
     adapter: 'api',
     theme: 'testnet',
-    egldLabel: 'xEGLD',
+    egldLabel: 'ONE',
     walletAddress: 'https://testnet-wallet.multiversx.com',
-    explorerAddress: 'https://testnet-explorer.multiversx.com',
+    explorerAddress: 'https://explorer.testnet.onefinity.buidly.com',
     nftExplorerAddress: 'https://testnet.xspotlight.com',
-    apiAddress: 'https://testnet-api.multiversx.com'
+    apiAddress: 'https://api.testnet.onefinity.buidly.com',
   }
 ];
 
