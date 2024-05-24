@@ -14,7 +14,7 @@ export const networks: NetworkType[] = [
     walletAddress: 'https://testnet-wallet.multiversx.com',
     explorerAddress: 'https://explorer.testnet.onefinity.buidly.com',
     nftExplorerAddress: 'https://testnet.xspotlight.com',
-    apiAddress: 'https://api.testnet.onefinity.buidly.com',
+    apiAddress: 'https://api.internal.onefinity.network',
   }
 ];
 
