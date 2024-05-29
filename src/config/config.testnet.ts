@@ -5,16 +5,16 @@ export * from './sharedConfig';
 export const networks: NetworkType[] = [
   {
     default: true,
-    id: 'testnet',
-    name: 'Testnet',
-    chainId: 'T',
+    id: 'midas-testnet',
+    name: 'Midas-Testnet',
+    chainId: 'MT',
     adapter: 'api',
     theme: 'testnet',
     egldLabel: 'OURO',
     walletAddress: 'https://testnet-wallet.multiversx.com',
-    explorerAddress: 'https://explorer.testnet.midas.buidly.com',
+    explorerAddress: 'https://explorer.internal.midaschain.ai',
     nftExplorerAddress: 'https://testnet.xspotlight.com',
-    apiAddress: 'https://api.testnet.midas.buidly.com'
+    apiAddress: 'https://api.internal.midaschain.ai'
   }
 ];
 
